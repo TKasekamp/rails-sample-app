@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial: sample application
 
+[ ![Codeship Status for TKasekamp/rails-sample-app](https://codeship.com/projects/583da150-4452-0132-16fa-0a815a57a9dd/status?branch=master)](https://codeship.com/projects/44821)
+
 This is the sample application for the
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
